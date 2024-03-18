@@ -4,4 +4,3 @@ class Dog:
 
     def name(self):
         print(self.name)
-
